@@ -1,0 +1,24 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body{
+    background: rgb(2,27,43);
+    background: radial-gradient(90deg, rgba(2,27,43,1) 0%, rgba(2,27,43,1) 79%, rgba(0,0,0,1) 100%);
+}
+
+
+header{
+    background: rgb(2,27,43);
+    background: radial-gradient(90deg, rgba(2,27,43,1) 0%, rgba(2,27,43,1) 79%, rgba(0,0,0,1) 100%);
+    color:#b10c43 ;
+    display: block;
+    position: fixed ;
+    top: 100;
+    left: 0;
+    width: 100%;
+    text-align: justify ;
+    font-size: 100px;
+    padding: 20px;
+    margin: 30px;
+}
